@@ -1,0 +1,37 @@
+}]]]]]]]]]]]]]]]]]LUA - BASICS)]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]}
+
+                                Where all have lua used:-
+
+                                    Adobe Photoshop Lightroom
+                                    Angry birds
+                                    Fable 3
+                                    World of Warcraft
+                                    Apache HTTP Server
+
+NEW THINGS WHILE INSTALLING------
+
+(In windwos)
+    Environment-> System Variables -> path : stuff...
+    Click on path (path to all the executables) -> New -> add location to our binaries (executables)
+
+    -->You can see py,cargo,etc everything there
+
+    Now in cmd => lua54  
+    it shows version
+
+(In wsl)
+    lua is also installed
+
+
+}}}}}}}}}}}} Mybe build a DSA IN OTHER LANGUAGES REPO (in order to understand other languages)
+
+
+
+
+
+
+
+PROGRESS ------------------------------------------------------------------------
+
+1)  love 2d is already installed in wsl. Try runngin just "love"
+    (we'll cover most of the things in love docs)
