@@ -35,3 +35,5 @@ PROGRESS -----------------------------------------------------------------------
 
 1)  love 2d is already installed in wsl. Try runngin just "love"
     (we'll cover most of the things in love docs)
+
+1) Covered 1 hour of lua basics. Getting into more important parts :- tables, functions, OOP
